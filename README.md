@@ -36,6 +36,7 @@
 ```bash
 git clone https://github.com/你的GitHub用户名/sim-training-agent.git
 cd sim-training-agent
+```
 
 ###2. 安装依赖
 
