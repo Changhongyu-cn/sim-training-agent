@@ -32,19 +32,19 @@
 
 ## 🚀 快速开始
 
-### 1. 克隆项目
+1. 克隆项目
 ```bash
 git clone https://github.com/你的GitHub用户名/sim-training-agent.git
 cd sim-training-agent
 ```
 
-###2. 安装依赖
+2. 安装依赖
 
 ```bash
 pip install -r requirements.txt
 ```
 
-###3. 配置 API Key
+3. 配置 API Key
 
 在项目根目录创建 .env 文件：
 
@@ -54,7 +54,7 @@ DEEPSEEK_API_KEY=sk-你的DeepSeek密钥
 
 ###注意⚠️ 请勿将 .env 文件提交到公开仓库
 
-###4. 启动服务
+4. 启动服务
 
 ```bash
 # 确保 Elasticsearch 已启动（http://localhost:9200）
